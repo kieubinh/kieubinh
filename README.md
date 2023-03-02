@@ -6,9 +6,12 @@ I am a seasoned information technology professional with a strong background in 
 
 Now, I am eager to leverage my diverse skill set to transition into a role as a business analyst, where I can utilize my expertise in data analysis and project management to help organizations make informed decisions and achieve their goals. I am confident that my strong analytical skills, attention to detail, and ability to communicate complex information in a clear and concise manner would make me a valuable asset to any team.
 
-Contact
+**Contact**
+
 If you want to discuss more, please contact me via
 
 Email: binhkt.uts@gmail.com
+
 LinkedIn: Thanh Binh (Anthony) Kieu
+
 Thank you!

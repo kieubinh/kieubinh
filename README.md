@@ -12,6 +12,6 @@ If you want to discuss more, please contact me via
 
 Email: binhkt.uts@gmail.com
 
-LinkedIn: Thanh Binh (Anthony) Kieu
+LinkedIn: [Thanh Binh (Anthony) Kieu](https://www.linkedin.com/in/thanh-binh-kieu-9865923b/)
 
 Thank you!

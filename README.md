@@ -11,6 +11,7 @@ I work at BMSYDNEY, a Sydney-based building products distribution company. Since
 Some of the solutions I have built include:
 
 - **Truck Loading Planner**: reduced a daily manual planning task from around 1 hour to about 5 minutes.
+- **BM Order Capture**: extracts orders directly from images and loads them into the ERP system.
 - **WhatsApp-based AI agents**: help teams communicate with internal AI assistants through a familiar messaging channel.
 - **OrderAI**: assists with order-related workflows.
 - **DeliveryAI**: helps the delivery team access information and complete repeatable tasks more efficiently.

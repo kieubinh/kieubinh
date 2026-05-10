@@ -1,15 +1,32 @@
-### Hi there,
+### Hi, I am Thanh Binh Kieu, also known as Anthony
 
-My name is **Thanh Binh (Anthony) Kieu**. I currently live in Sydney, New South Wales.
+I am an IT professional based in Sydney, Australia, with a background in data analytics, academic teaching, research, natural language processing, machine learning, and recommender systems.
 
-I am a seasoned information technology professional with a strong background in academic instruction and research with over **5 years of experience as an assistant lecturer at Vietnam National University Hanoi, University of Engineering and Technology** that is one of the most famous universities in Vietnam, and then I've got **a PhD degree in Information Systems from University of Technology, Sydney**. During my PhD program, I have developed a deep understanding of natural language processing using machine learning techniques with applications of recommender systems. After graduation, I have been working as a **data analyst** at BMSYDNEY in Sydney, Australia which is a company with over 20 years of distribution of building products in NSW. Through these roles, I have gained valuable skills in identifying trends and patterns, developing strategies, and delivering successful projects.
+I hold a PhD in Information Systems from the University of Technology Sydney. Before moving into industry, I spent more than 5 years as an assistant lecturer at Vietnam National University Hanoi, University of Engineering and Technology, where I taught and researched computing topics.
 
-**Contact**
+### Current Work
 
-If you want to discuss more, please contact me via
+I work at BMSYDNEY, a Sydney-based building products distribution company. Since January 2026, my role has focused on building smart business automation and AI solutions that help teams reduce manual work, find information faster, and improve everyday operations.
 
-Email: binhkt.uts@gmail.com
+Some of the solutions I have built include:
 
-LinkedIn: [Thanh Binh (Anthony) Kieu](https://www.linkedin.com/in/thanh-binh-kieu-9865923b/)
+- **Truck Loading Planner**: reduced a daily manual planning task from around 1 hour to about 5 minutes.
+- **WhatsApp-based AI agents**: help teams communicate with internal AI assistants through a familiar messaging channel.
+- **OrderAI**: assists with order-related workflows.
+- **DeliveryAI**: helps the delivery team access information and complete repeatable tasks more efficiently.
+- **Customer Service AI**: supports customer service staff by helping them find answers and respond faster.
+- **Sales Rep AI**: assists sales representatives with searching information and handling routine tasks.
 
-Thank you!
+### Interests
+
+- Data analytics and business intelligence
+- AI agents for business automation
+- Natural language processing
+- Machine learning applications
+- Recommender systems
+- Practical tools that save time and reduce repetitive work
+
+### Contact
+
+- Email: binhkt.uts@gmail.com
+- LinkedIn: [Thanh Binh Kieu](https://www.linkedin.com/in/thanh-binh-kieu-9865923b/)

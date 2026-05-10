@@ -6,7 +6,7 @@ I hold a PhD in Information Systems from the University of Technology Sydney. Be
 
 ### Current Work
 
-I work at BMSYDNEY, a Sydney-based building products distribution company. Since January 2026, my role has focused on building smart business automation and AI solutions that help teams reduce manual work, find information faster, and improve everyday operations.
+I work as a Business Data Analyst at BMSYDNEY from 2021, a Sydney-based building products distribution company. Since 2025, my role has focused on building smart business automation and AI solutions that help teams reduce manual work, find information faster, and improve everyday operations.
 
 Some of the solutions I have built include:
 
@@ -24,7 +24,7 @@ Some of the solutions I have built include:
 - Natural language processing
 - Machine learning applications
 - Recommender systems
-- Practical tools that save time and reduce repetitive work
+- Smart solutions that save time and reduce repetitive work
 
 ### Contact
 

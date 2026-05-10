@@ -1,4 +1,4 @@
-### Hi, I am Thanh Binh Kieu, also known as Anthony
+### Hi, I am Thanh Binh Kieu, also known as Anthony Kieu
 
 I am an IT professional based in Sydney, Australia, with a background in data analytics, academic teaching, research, natural language processing, machine learning, and recommender systems.
 

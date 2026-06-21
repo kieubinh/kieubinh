@@ -10,15 +10,15 @@ I work as a Business Data Analyst at BMSYDNEY from 2021, a Sydney-based building
 
 Some of the solutions I have built include:
 
-- **Truck Loading Planner**: reduced a daily manual planning task from around 1 hour to about 5 minutes.
-- **BM Order Capture**: extracts orders directly from images and loads them into the ERP system.
-- **WhatsApp-based AI agents**: help teams communicate with internal AI assistants through a familiar messaging channel.
-- **OrderAI**: assists with order-related workflows.
-- **DeliveryAI**: helps the delivery team access information and complete repeatable tasks more efficiently.
-- **Customer Service AI**: supports customer service staff by helping them find answers and respond faster.
-- **Sales Rep AI**: assists sales representatives with searching information and handling routine tasks.
-- **BMS Staff Clock**: manage clocking in/out of our 100+ staffs
-- **BMS Product Wiki**: The app is an internal product knowledge base and product recommendation system. It helps employees and managers search building material products, understand specifications, compare equivalent products, and support customer enquiries.
+- **Truck Loading Planner** - Reduced truck loading planning time by over 90%, from 1 hour to under 5 minutes per day.
+- **BM Order Capture** - Eliminated manual order entry by automatically extracting and posting orders from images into the ERP system.
+- **WhatsApp-based AI agents** - Created a company-wide AI assistant platform that delivers business support through WhatsApp, improving accessibility and user adoption.
+- **OrderAI** - Accelerated order processing and information retrieval through AI-assisted workflows.
+- **DeliveryAI** - Improved delivery team productivity by providing instant access to operational information and automating repetitive tasks..
+- **Customer Service AI** - Enhanced customer service efficiency through AI-assisted knowledge retrieval and response generation.
+- **Sales Rep AI** - Increased sales team productivity by simplifying access to pricing, product, and customer information.
+- **BMS Staff Clock** - Centralized workforce attendance management system that digitizes employee clock-in/out tracking across warehouses, offices, and job sites, improving visibility and reducing manual administration.
+- **BMS Product**: Improved customer self-service and staff support with an AI-powered building materials product knowledge platform.
   
 ### Interests
 

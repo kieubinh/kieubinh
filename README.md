@@ -17,7 +17,9 @@ Some of the solutions I have built include:
 - **DeliveryAI**: helps the delivery team access information and complete repeatable tasks more efficiently.
 - **Customer Service AI**: supports customer service staff by helping them find answers and respond faster.
 - **Sales Rep AI**: assists sales representatives with searching information and handling routine tasks.
-
+- **BMS Staff Clock**: manage clocking in/out of our 100+ staffs
+- **BMS Product Wiki**: The app is an internal product knowledge base and product recommendation system. It helps employees and managers search building material products, understand specifications, compare equivalent products, and support customer enquiries.
+  
 ### Interests
 
 - Data analytics and business intelligence

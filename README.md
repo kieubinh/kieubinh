@@ -22,12 +22,13 @@ Some of the solutions I have built include:
   
 ### Interests
 
-- Data analytics and business intelligence
-- AI agents for business automation
-- Natural language processing
-- Machine learning applications
-- Recommender systems
-- Smart solutions that save time and reduce repetitive work
+- Artificial Intelligence and AI Agent Development
+- Business Process Automation and Digital Transformation
+- Data Analytics, Business Intelligence, and Data-Driven Decision Making
+- Natural Language Processing and Knowledge Management Systems
+- Applied Machine Learning and Intelligent Recommendation Systems
+- Enterprise Software Solutions and Workflow Optimization
+- Building Practical Technologies that Save Time and Enhance Operational Efficiency
 
 ### Contact
 
